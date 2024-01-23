@@ -1,0 +1,10 @@
+[0] [Mario]: Buna , ce faceti?
+[1] [Pintecan]: salut
+[2] [Bolfa]: buna
+[3] [Bolfa] [DELETED]
+[4] [Mario]: Dc ai sters mesaju?
+[5] [Mario]: haide sa vorbim
+[6] [Mario]: Logout
+[7] [Pintecan]: END
+[8] [Pintecan]: END
+[9] [Bolfa]: Buna

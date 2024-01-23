@@ -1,0 +1,5 @@
+[0] [Bolfa]: Buna
+[1] [Mario]: salut vlad
+[2] [Mario] [REPLY] [0]: salut 
+[3] [Ioana]: buna
+[4] [Ioana]: ce fadceti

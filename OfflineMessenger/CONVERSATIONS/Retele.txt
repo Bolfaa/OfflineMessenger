@@ -1,0 +1,10 @@
+[0] [Bolfa]: salut
+[1] [Bolfa]: ce faceti?
+[2] [Mario] [REPLY] [1]: bine,tu? 
+[3] [Pintecan]: Buna
+[4] [Pintecan]: dragilor
+[5] [Pintecan]: ce frumosi sunteti
+[6] [Pintecan] [REPLY] [2]: Hai sa iesim afara 
+[7] [Bolfa] [EDITED] :Calumea 
+[8] [Pintecan]: buna
+[9] [Pintecan]: ce faceti?

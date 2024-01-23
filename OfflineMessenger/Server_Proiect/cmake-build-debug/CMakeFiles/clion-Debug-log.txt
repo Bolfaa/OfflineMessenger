@@ -1,0 +1,4 @@
+/home/bolfa/.local/share/JetBrains/Toolbox/apps/clion-2/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/bolfa/.local/share/JetBrains/Toolbox/apps/clion-2/bin/ninja/linux/x64/ninja -G Ninja -S /home/bolfa/CLionProjects/Server_Proiect -B /home/bolfa/CLionProjects/Server_Proiect/cmake-build-debug
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/bolfa/CLionProjects/Server_Proiect/cmake-build-debug

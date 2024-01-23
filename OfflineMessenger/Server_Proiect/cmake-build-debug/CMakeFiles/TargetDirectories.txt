@@ -1,0 +1,3 @@
+/home/bolfa/CLionProjects/Server_Proiect/cmake-build-debug/CMakeFiles/Server_Proiect.dir
+/home/bolfa/CLionProjects/Server_Proiect/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bolfa/CLionProjects/Server_Proiect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
